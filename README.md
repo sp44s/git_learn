@@ -1,2 +1,2 @@
 # git_learn
-learning git
+revising git commands
